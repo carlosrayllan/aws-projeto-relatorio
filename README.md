@@ -36,12 +36,15 @@ A implementação de ferramentas na empresa ABSTERGO INDUSTRIES tem como esperad
 Links importantes
 
 Link para serviços AWS -  Etapa 1 - Projeto AWS - ABSTERGO INDUSTRIES
+
 https://aws.amazon.com/pt/about-aws/global-infrastructure/regions_az/
 
 Link para serviços AWS - Etapa 2 - Projeto AWS - ABSTERGO INDUSTRIES
+
 https://aws.amazon.com/pt/ec2/autoscaling/
 
 Link para serviços AWS - Etapa 3 - Projeto AWS - ABSTERGO INDUSTRIES
+
 https://aws.amazon.com/pt/products/management-tools/
 
 
